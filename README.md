@@ -1,5 +1,5 @@
 # FCC-Show-the-Local-Weather
-Completion Date: Oct 08, 2016
+Completion Date: Oct 3, 2016
 
 This is the repository for my completion of the freeCodeCamp "Show the Local Weather" project. Formatted for mobile use.
 
