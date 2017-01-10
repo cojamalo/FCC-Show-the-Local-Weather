@@ -1,0 +1,109 @@
+#click {
+font-size:5vw;
+padding:10vw;
+width:100%;
+}
+
+#current {
+font-size:6vw;
+}
+
+#footer {
+font-family:Raleway, sans-serif;
+font-size:1.5vw;
+font-weight:100;
+}
+
+#forecast {
+font-size:3.5vw;
+}
+
+#loc-time {
+font-size:3vw;
+margin-top:1vh;
+}
+
+#loc-time2 {
+font-size:4.5vw;
+margin-top:1vh;
+}
+
+#temp {
+font-size:18vw;
+}
+
+* {
+font-family:'Open Sans', Sans-serif;
+font-weight:900;
+}
+
+.btn {
+height:auto;
+}
+
+.drop {
+margin-top:3vw;
+}
+
+.gfy {
+-moz-box-shadow:0 0 64px 0 rgba(0,0,0,0.75);
+-webkit-box-shadow:0 0 64px 0 rgba(0,0,0,0.75);
+box-shadow:0 0 64px 0 rgba(0,0,0,0.75);
+margin-top:2vh;
+}
+
+.next5 {
+font-size:2.5vw;
+margin-top:2.5vh;
+overflow:auto;
+width:100%;
+}
+
+.outer {
+background:radial-gradient(circle,#66B2FF,#0080FF,#004c99);
+border-radius:2px;
+display:block;
+height:100%;
+margin:28vh auto auto;
+overflow:auto;
+width:100%;
+}
+
+.row {
+margin-bottom:0;
+}
+
+.row .col.s2 {
+  width: 8.7%;
+}
+
+.scroll {
+width:270%;
+}
+
+a {
+color:#00008B;
+}
+
+html {
+background:radial-gradient(circle,#484848,#282828,#080808);
+color:#FFF;
+height:100%;
+width:100%;
+}
+
+i.fa {
+font-size:10vw;
+}
+
+img {
+display:block;
+filter:invert(100%);
+margin:auto;
+width:20vw;
+}
+
+sup {
+font-size:6vw;
+vertical-align:super;
+}
