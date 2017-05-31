@@ -7,4 +7,6 @@ The project features AJAX requests to Dark Sky's weather API. It also uses the u
 
 A working version is at https://codepen.io/cojamalo/pen/LRWwww.
 
+Project coded by Connor Lenio - released into the public domain for educational purposes in 2016.
+
 
